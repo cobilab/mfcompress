@@ -1,6 +1,6 @@
 # MFCompress
 
-MFCompress is a multi-threaded compression tool specifically designed for FASTA and multi-FASTA files using finite-context models and arithmetic coding.
+MFCompress is a parallelizable compression tool specifically designed for FASTA and multi-FASTA files using finite-context models and arithmetic coding.
 
 ---
 
